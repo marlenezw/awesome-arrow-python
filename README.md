@@ -20,3 +20,7 @@ If you have any suggestions for other resources to add here, please submit a PR!
 
 - [A gentle introduction to Apache Arrow with Apache Spark and Pandas](https://towardsdatascience.com/a-gentle-introduction-to-apache-arrow-with-apache-spark-and-pandas-bb19ffe0ddae)
 - [Optimizing Conversion between Spark and Pandas DataFrames using Apache PyArrow](https://blog.clairvoyantsoft.com/optimizing-conversion-between-spark-and-pandas-dataframes-using-apache-pyarrow-9d439cbf2010)
+
+## Contributing :medal_sports:
+
+- [How I Made My First PR To Apache Arrow](https://marlenemhangami.com/how-i-made-my-first-pr-to-apache-arrow)
